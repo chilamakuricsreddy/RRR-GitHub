@@ -1,1 +1,3 @@
 # Thi sfile describes this repo
+# Conclusions
+* Git and GitHub are very useful
